@@ -1,3 +1,5 @@
+---
+
 # Hello, I'm Islam 👋
 
 I'm a **Bioinformatics Data Scientist** passionate about translating complex biological data into clinical insights. My expertise lies at the intersection of **biostatistics, data analysis, and genomics**, with a focus on cancer research, immunotherapy, and public health.
@@ -36,6 +38,6 @@ I specialize in conducting end-to-end data analysis projects that answer critica
 ## 👋🏻 Connect with Me
 
 -   [**LinkedIn**](https://www.linkedin.com/in/islam-asal/)  
--   [**Hire me on Upwork**](https://www.upwork.com/freelerancers/~013d166b16c6a7b4?mp_source=share)
+-   [**Hire me on Upwork**](https://www.upwork.com/freelancers/~013d6a166b16c6a7b4?mp_source=share)
 
 ---
